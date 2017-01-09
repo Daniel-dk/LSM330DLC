@@ -1,16 +1,10 @@
 /***************************************************************************
-  This is a library for the LSM303 Accelerometer and magnentometer/compass
-
-  Designed specifically to work with the Adafruit LSM303DLHC Breakout
-
-  These displays use I2C to communicate, 2 pins are required to interface.
-
-  Adafruit invests time and resources providing this open source code,
-  please support Adafruit andopen-source hardware by purchasing products
-  from Adafruit!
-
-  Written by Kevin Townsend for Adafruit Industries.  
+  This is a library for the LSM330 Accelerometer and gyroscope
+  uses I2C to communicate, 2 pins are required to interface.
+  Written by Daniel de Kock for Bushveldlabs.
+  As is, et al, don't use in life saving ( or taking ) equipment , do not ingest etc.
   BSD license, all text above must be included in any redistribution
+
  ***************************************************************************/
 #include <LSM330DLC.h>
 
